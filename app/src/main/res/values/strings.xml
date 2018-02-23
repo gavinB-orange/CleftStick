@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CleftStick</string>
+    <string name="title">Welcome to Cleft Stick</string>
+    <string name="subtitle">The geo-note app</string>
+    <string name="button_simple_edit">Add notes</string>
+    <string name="button_manage">Manage notes</string>
+    <string name="add_notes_activity_label_add_latitude">Add latitude</string>
+    <string name="add_notes_activity_label_add_longitude">Add longitude</string>
+    <string name="add_notes_activity_label_add_distance">Add distance</string>
+    <string name="add_notes_activity_hint_add_latitude">Add latitude</string>
+    <string name="add_notes_activity_hint_add_longitude">Add longitude</string>
+    <string name="add_notes_activity_hint_add_distance">Add distance</string>
+    <string name="add_notes_activity_label_notes_added">Notes added</string>
+    <string name="add_notes_activity_hint_add_message">Add message</string>
+    <string name="add_notes_activity_label_add_message">Add message</string>
+    <string name="add_notes_activity_value_notes_added"> </string>
+    <string name="add_notes_activity_button_add">Add</string>
+    <string name="cleftstickapp_logo_content_description">CleftStick App Logo</string>
+</resources>
